@@ -95,11 +95,6 @@ pip install pandas numpy matplotlib scikit-learn
 - The notebook prints the Mean Squared Error (MSE) for the test set.
 - A graph shows both the actual and predicted prices, illustrating the model’s fit and predictive performance.
 
-<p align="center">
-  <img src="assets/stock_prediction_plot.png" alt="Stock Prediction Plot" width="600"/>
-</p>
-
-*(Visualization automatically generated in the notebook. Replace the image path above if needed.)*
 
 ## Limitations & Next Steps
 
